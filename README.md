@@ -1,1 +1,1 @@
-# Capstone Project
+# Capstone Project - Whisky recognition, analysis and recommendation
