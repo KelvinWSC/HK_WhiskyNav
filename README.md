@@ -23,4 +23,4 @@ Through the anaylsis of the flavour profile, the app can also accurately recomme
 The section below documents the process of building this application, the challenges we faced, the solution we explored and applied, and the results we obtained.
 There are 3 episodes,
 
-![image](https://user-images.githubusercontent.com/80243823/127727774-1b92968d-14c0-4dc6-a903-276c3a5d5673.png)
+![image](https://user-images.githubusercontent.com/80243823/127727856-a9e0d0ea-806c-4017-9680-70c5ca806359.png)
