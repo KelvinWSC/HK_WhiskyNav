@@ -3,9 +3,7 @@
 
 **Live Demo**
 
-https://user-images.githubusercontent.com/80243823/127628997-8e87a975-8074-42d5-93b5-6374c032c644.mp4
-
-
+https://user-images.githubusercontent.com/80243823/127728057-2a5bdb84-1240-46b5-9f7f-4fb98f22963d.mp4
 
 ## **Background**
 A 3-week capstone project utilizing Machine Learning, Deep Learning, Web Scraping, Recommendation System, Natural Language Processing and Data Visualization.
