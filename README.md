@@ -20,5 +20,5 @@ Furthermore, through Machine Learning, the app can analyse the flavour profile o
 Through the anaylsis of the flavour profile, the app can also accurately recommend similar whisky, or completely different whisky for user to explore.
 
 ## **Table of content**
-The section below documents the process of building this application, the challenges we faced, the solution we explored and applied, and the results.
+The section below documents the process of building this application, the challenges we faced, the solution we explored and applied, and the results we obtained.
 There are 3 episodes,
