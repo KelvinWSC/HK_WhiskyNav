@@ -19,9 +19,11 @@ After identification, the app then consolidates related information in real time
 
 Furthermore, through Machine Learning, the app can analyse the flavour profile of the whisky and display an easy-to-understand flavour description to the user.
 Through the anaylsis of the flavour profile, the app can also accurately recommend similar whisky, or completely different whisky for user to explore.
+<br><br />
 
 ## **Table of content**
 The section below documents the process of building this application, the challenges we faced, the solution we explored and applied, and the results we obtained.
 There are 3 episodes,
 
 ![image](https://user-images.githubusercontent.com/80243823/127727856-a9e0d0ea-806c-4017-9680-70c5ca806359.png)
+<br><br />
