@@ -37,6 +37,7 @@ There are 4 types of data we have to acquire for this project,
 ![image](https://user-images.githubusercontent.com/80243823/127764876-b118e555-eb42-4097-a981-aa67c1eae7a9.png)
 
 **Top 100 whisky**
+
 Due to the project scope and complexity, it is not practical to cater all whiskies in the world. Covering top 100 whiskies strikes a perfect balance of users' need and resources required to develop the application.
 For that, we applied web scraping to acquire whisky info online, filtered and sorted them based on the no. of ratings, i.e. the popularity.
 
