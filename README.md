@@ -29,3 +29,6 @@ There are 3 episodes,
 
 ![image](https://user-images.githubusercontent.com/80243823/127727856-a9e0d0ea-806c-4017-9680-70c5ca806359.png)
 <br><br />
+
+## **Episode 1 - Data Collection**
+![image](https://user-images.githubusercontent.com/80243823/127764839-b7cc6e32-9489-42a8-a275-ad9d8d917cdd.png)
