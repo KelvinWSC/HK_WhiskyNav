@@ -32,3 +32,7 @@ There are 3 episodes,
 
 ## **Episode 1 - Data Collection**
 ![image](https://user-images.githubusercontent.com/80243823/127764839-b7cc6e32-9489-42a8-a275-ad9d8d917cdd.png)
+
+There are 4 types of data we have to acquire for this project,
+![image](https://user-images.githubusercontent.com/80243823/127764876-b118e555-eb42-4097-a981-aa67c1eae7a9.png)
+
