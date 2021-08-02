@@ -48,7 +48,7 @@ Thus, we had to use "regex" to clear all duplicated data.
 
 **Whisky image**
 
-For the development of the neural network, we downloaded images of different whiskies. The details of the challenges will be mention in episode 2.
+For the development of the neural network, we downloaded images of different whiskies. The details of the challenges will be mentioned in episode 2.
 
 ![image](https://user-images.githubusercontent.com/80243823/127798879-6dda0ad2-fe75-4058-8d8a-a5072e731fba.png)
 
