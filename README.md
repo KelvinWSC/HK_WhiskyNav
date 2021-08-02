@@ -60,8 +60,8 @@ Aside from the comments from experts, we also web-scrapped reviews from general 
 
 **Availability in Hong Kong**
 
-Our focus is the Hong Kong local market. To have a full picture of the whisky market, we web-scrapped websites of all major whisky retailers and online retail platform.
-The major challenge was that, different website has different structure, some even have anti-scrapping measures employed. We had to develop unique scrapping program for each website, using both "Beautiful Soup" and "Selenium" from Python library.
+Our focus is the Hong Kong local market. To have a full picture of the whisky market, we web-scraped websites of all major whisky retailers and online retail platform.
+The major challenge was that, different website has different structure, some even have anti-scraping measures employed. We had to develop unique scraping program for each website, using both "Beautiful Soup" and "Selenium" from Python library.
 
 ![image](https://user-images.githubusercontent.com/80243823/127799190-4d5d966e-b6aa-4a08-98a6-1d6f11a2faee.png)
 ![image](https://user-images.githubusercontent.com/80243823/127799243-95882e37-0c00-41b5-8144-6603af1d6a0d.png)
