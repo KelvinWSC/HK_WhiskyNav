@@ -47,6 +47,13 @@ Thus, we had to use "regex" to clear all duplicated data.
 ![image](https://user-images.githubusercontent.com/80243823/127764934-d6aa6ea2-2181-4635-a422-2c4bcbc37ee3.png)
 
 **Whisky image**
+
 For the development of the neural network, we downloaded images of different whiskies. The details of the challenges will be mention in episode 2.
 
 ![image](https://user-images.githubusercontent.com/80243823/127798879-6dda0ad2-fe75-4058-8d8a-a5072e731fba.png)
+
+**Whisky flavour profile**
+
+To analyse the flavour profile of whisky, we acquired the tasting notes database from whisky experts from the internation whisky community.
+Aside from the comments from experts, we also web-scrapped reviews from general public from major online platform
+![image](https://user-images.githubusercontent.com/80243823/127799009-640929b2-a19a-4eea-a804-e5791ec87e16.png)
