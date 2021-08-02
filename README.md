@@ -69,3 +69,6 @@ The major challenge was that, different website has different structure, some ev
 After acquiring all the info, we cleansed the data and visualized them in a simple way.
 Since Google Map plug-in is not a free service, we've come up with a way to manipulate the URL, and also a way to parse both English and Chinese addresses, to allow the users to use Google Map for the shop address.
 ![image](https://user-images.githubusercontent.com/80243823/127799685-969d4f0f-2a25-430a-b2af-16c3fa3dd112.png)
+
+## **Episode 2 - Image recognition**
+![image](https://user-images.githubusercontent.com/80243823/127800095-9e0ce2b0-a6e1-4e57-a2a6-6a2558541983.png)
