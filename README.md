@@ -19,7 +19,7 @@ Furthermore, through Machine Learning, the app can analyse the flavour profile o
 Through the anaylsis of the flavour profile, the app can also accurately recommend similar whisky, or completely different whisky for user to explore.
 <br><br />
 
-## **Table of content**
+## **Table of Content**
 The section below documents the process of building this application, the challenges we faced, the solution we explored and applied, and the results we obtained.
 There are 3 episodes,
 
@@ -66,7 +66,7 @@ After acquiring all the info, we cleansed the data and visualized them in a simp
 Since Google Map plug-in is not a free service, we've come up with a way to manipulate the URL, and also a way to parse both English and Chinese addresses, to allow the users to use Google Map for the shop address.
 ![image](https://user-images.githubusercontent.com/80243823/127799685-969d4f0f-2a25-430a-b2af-16c3fa3dd112.png)
 <br><br />
-## **Episode 2 - Image recognition**
+## **Episode 2 - Image Recognition**
 ![image](https://user-images.githubusercontent.com/80243823/127800095-9e0ce2b0-a6e1-4e57-a2a6-6a2558541983.png)
 
 The aim here is to let users to take a photo of any bottle, the app will then recognize the brand and year of the whisky.
