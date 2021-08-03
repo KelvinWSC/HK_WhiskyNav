@@ -68,3 +68,14 @@ Since Google Map plug-in is not a free service, we've come up with a way to mani
 <br><br />
 ## **Episode 2 - Image recognition**
 ![image](https://user-images.githubusercontent.com/80243823/127800095-9e0ce2b0-a6e1-4e57-a2a6-6a2558541983.png)
+
+The aim here is to let users to take a photo of any bottle, the app will then recognize the brand and year of the whisky.
+The approach we took was to train a neural network to read the label of the whisky bottle. For that, we used transfer learning and used 2 separate models in unison to acheive the goal.
+One for locating the text, one for recognizing the text.
+
+![image](https://user-images.githubusercontent.com/80243823/127945941-3e77467a-0e17-43b9-a069-2f82d1bf60c5.png)
+
+It didn't work. The accuracy would be significantly affected by photo resolution, brightness, contrast, text orientation, camera focus etc. Thus, we changed our approach.
+
+![image](https://user-images.githubusercontent.com/80243823/127946021-0a98e91a-502a-4c83-be50-cc79624ecd3b.png)
+
