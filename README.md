@@ -126,3 +126,6 @@ We put the model to a field test
 ![image](https://user-images.githubusercontent.com/80243823/127947490-80140c91-e377-40a7-b8f3-e66a7f0ec240.png)
 ![image](https://user-images.githubusercontent.com/80243823/127948457-a765e292-883b-419d-9000-d6f9b06064bc.png)
 
+<br><br />
+## **Episode 3 - Image recognition**
+![image](https://user-images.githubusercontent.com/80243823/127948745-92c201c2-f12c-427c-a3c6-06df4be570b4.png)
