@@ -116,4 +116,4 @@ This is the result. The model immediately broke through the 60% mark, and hit 71
 
 ![image](https://user-images.githubusercontent.com/80243823/127946853-ea155d30-8d59-4ee6-8199-2e4f65dda70f.png)
 
-######## *During the later stage of the whole project, we discovered that there were data leakage during the 3rd stage of the neural network training, resulting in close training and validation accuracy. Fortunately, it didn't have negative impact to the recognition accuracy and the later field test still gave us very satisfactory results. This is one of the major lesson-learnt/insight we gained from this project.
+###### *During the later stage of the whole project, we discovered that there were data leakage during the 3rd stage of the neural network training, resulting in close training and validation accuracy. Fortunately, it didn't have negative impact to the recognition accuracy and the later field test still gave us very satisfactory results. This is one of the major lesson-learnt/insight we gained from this project.
