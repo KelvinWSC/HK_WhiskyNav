@@ -106,3 +106,14 @@ Instead of feeding the network images with different backgrounds, this time, we 
 Not only that, we applied image augmentation to all the images we have. Each time, the program would pick a random number of random effects, by random magnitude. By doing so, we increased our sample size tenfold, to more than 25,000 images.
 
 ![image](https://user-images.githubusercontent.com/80243823/127946655-a19d422f-4707-4479-82d0-75ab1ec88a0d.png)
+
+This was not the only trick up on our sleeves. We had a wild idea. Notice that all the images we fed to the network contained a bottle, so how does the network know the bottle is the focus here ? Imagine all the swans you see in your life are white, how do you know the colour of the swan is something you need to pay attention to ? So, we introduced a black swan to the network.
+We trained the network to recognize non-whisky classes, all without a bottle. So by learning what is not, one knows what is.
+
+![image](https://user-images.githubusercontent.com/80243823/127946789-543460a6-23fb-48a5-a4be-3d62b7e240e0.png)
+
+This is the result. The model immediately broke through the 60% mark, and hit 71%. Not only that, whenever the accuracy plateaued at a certain level, I reduced the learning rate, and cut the batch size by half. Essentially, it means that instead of making big jumps for the gradient descent, the model made smaller, but more frequent jump to the minimum. The model eventually reached close to 95% accuracy.
+
+![image](https://user-images.githubusercontent.com/80243823/127946853-ea155d30-8d59-4ee6-8199-2e4f65dda70f.png)
+
+#### *During the later stage of the whole project, we discovered that there were data leakage during the 3rd stage of the neural network training, resulting in close training and validation accuracy. Fortunately, it didn't have negative impact to the recognition accuracy and the later field test still gave us very satisfactory results. This is one of the major lesson-learnt/insight we gained from this project.
