@@ -89,7 +89,7 @@ There are good news and bad news. The good news is, there are good image recogni
 
 We froze the feature extraction part, making it untrainable, and cut the classification part of InceptionV3, replacing it with our own neural network for the classification. Over 10 versions of the network were tested before we deployed the final one.
 
-![image](https://user-images.githubusercontent.com/80243823/127946388-c804d6ff-2c14-46e9-9351-5395904c077e.png)
+![image](https://user-images.githubusercontent.com/80243823/127949368-b57f12c2-5753-458d-a1f0-8db03e7800d3.png)
 
 To train this neural network, we needed lots of data. We downloaded images of 100 different whiskies, around 25 images per whisky on average, all with different backgrounds. So we have more than 2500 images in total.
 
