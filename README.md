@@ -79,3 +79,11 @@ It didn't work. The accuracy would be significantly affected by photo resolution
 
 ![image](https://user-images.githubusercontent.com/80243823/127946021-0a98e91a-502a-4c83-be50-cc79624ecd3b.png)
 
+Instead of recognizing the text, we trained a neural network to classify the whisky based on the whole image. We used Convolutional Neural Network (CNN) to extract the features of a whisky bottle, like the shape, colour, position and words on the label.
+
+![image](https://user-images.githubusercontent.com/80243823/127946185-18193067-3b44-4bfd-9386-ace1df4ee843.png)
+
+There are good news and bad news. The good news is, there are good image recognition neural networks available online. The bad news is, none of them can recognise whisky. But since they are so good at image recognition, they must be good at feature extraction, so we used them for this purpose and InceptionV3 was our choice. We then trained our own neural network to classify the whisky based on the feature extraction result.
+
+![image](https://user-images.githubusercontent.com/80243823/127946243-bdd87420-f868-470f-89c8-8ac8111b4a87.png)
+
