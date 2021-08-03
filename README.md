@@ -95,3 +95,14 @@ To train this neural network, we needed lots of data. We downloaded images of 10
 
 ![image](https://user-images.githubusercontent.com/80243823/127946427-597b29ea-052a-41c6-a104-3ea3be31b716.png)
 
+This is the performance of the network. We achieved 57% accuracy after days of training. However, we had bad news. No matter how hard we trained the model, it couldn’t break through the 60%, it was like there is a hidden wall there. We were not going to settle for 60% accuracy, so we adopted another new approach.
+
+![image](https://user-images.githubusercontent.com/80243823/127946580-4f2497b3-89ea-4b15-bff7-54e936f64015.png)
+
+Instead of feeding the network images with different backgrounds, this time, we fed it with cropped images of whisky, focusing on the bottle.
+
+![image](https://user-images.githubusercontent.com/80243823/127946616-45437a81-18f5-44cf-a828-979c7b05ad47.png)
+
+Not only that, we applied image augmentation to all the images we have. Each time, the program would pick a random number of random effects, by random magnitude. By doing so, we increased our sample size tenfold, to more than 25,000 images.
+
+![image](https://user-images.githubusercontent.com/80243823/127946655-a19d422f-4707-4479-82d0-75ab1ec88a0d.png)
