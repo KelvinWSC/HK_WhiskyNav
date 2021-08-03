@@ -127,5 +127,5 @@ We put the model to a field test
 ![image](https://user-images.githubusercontent.com/80243823/127948457-a765e292-883b-419d-9000-d6f9b06064bc.png)
 
 <br><br />
-## **Episode 3 - Flavour profile analysis & Recommendation System**
+## **Episode 3 - Flavour Profile Analysis & Recommendation System**
 ![image](https://user-images.githubusercontent.com/80243823/127948745-92c201c2-f12c-427c-a3c6-06df4be570b4.png)
