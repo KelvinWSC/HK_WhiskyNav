@@ -181,6 +181,7 @@ Below is the app structure for deployment
 ## **Challenges**
 There were numerous challenges we faced throughout the 3 episodes. They can be summarized as followed and we have overcome all of them within 3 weeks.
 ![image](https://user-images.githubusercontent.com/80243823/128118831-16df29b2-3f75-4b6a-a39b-45873bf5e10b.png)
+<br><br />
 
 ## **Next step**
 ![image](https://user-images.githubusercontent.com/80243823/128119123-bbec49fd-71c8-466d-b5a2-d42d2db2a12f.png)
