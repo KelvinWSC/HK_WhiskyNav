@@ -178,3 +178,6 @@ The user can imagine the flavour of the whisky simply by looking at the Word Clo
 Below is the app structure for deployment
 ![image](https://user-images.githubusercontent.com/80243823/128118662-8bb091cb-c70c-4e53-adc7-5b1648d83e0e.png)
 
+## **Challenges**
+There were numerous challenges we faced throughout the 3 episodes. They can be summarized as followed,
+![image](https://user-images.githubusercontent.com/80243823/128118831-16df29b2-3f75-4b6a-a39b-45873bf5e10b.png)
