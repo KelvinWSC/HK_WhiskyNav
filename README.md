@@ -129,3 +129,24 @@ We put the model to a field test
 <br><br />
 ## **Episode 3 - Flavour Profile Analysis & Recommendation System**
 ![image](https://user-images.githubusercontent.com/80243823/127948745-92c201c2-f12c-427c-a3c6-06df4be570b4.png)
+
+When it comes to food and beverages, existing recommendation systems are usually not accurate, especially for whisky. Besides, review like "it tastes good" or "I give it 9 out of 10" offers no useful information, as taste is subjective. A much more useful review would be like "This whisky tastes like lollipop with a texture of honey", which reader can make easy reference.
+
+![image](https://user-images.githubusercontent.com/80243823/128116658-c24a8220-f154-4d36-a898-5b41f4c55b41.png)
+
+For that, we wanted to analyse the flavour profile of different whiskies, and offer a much more accurate recommendation system and taste description to users.
+There were 2 separate researches of whisky flavour, both reached similar conclusions. One stated that using 12 adjectives was sufficient to cluster different whisky; While the other one stated that dividing whisky into 12 flavour groups could minimize the variance in clustering. 12 seems to be the magic number here.
+
+![image](https://user-images.githubusercontent.com/80243823/128116729-199ba073-c98f-4bbc-94ef-2ab37bded9e6.png)
+
+We found a database of flavour profile of different whiskies, all rated by whisky masters from the international whisky community on a 5-point scale
+
+![image](https://user-images.githubusercontent.com/80243823/128116808-01300220-2ce1-4a77-93f7-91540305865b.png)
+
+However, asking the user to rate 12 flavours before making a recommendation is not practical. For that, we used Principal Component Analysis (PCA) to explore the possibility of reducing the number of adjective required.
+
+![image](https://user-images.githubusercontent.com/80243823/128116849-9b80b882-73d6-4619-81a4-6019e82a3f6b.png)
+
+The result showed that, in order to explain 95% of variance, we needed at least 10 components. So it didn't help much.
+
+![image](https://user-images.githubusercontent.com/80243823/128116901-6f0d2d4b-3684-4683-898a-0eb4278ba369.png)
