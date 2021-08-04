@@ -150,3 +150,23 @@ However, asking the user to rate 12 flavours before making a recommendation is n
 The result showed that, in order to explain 95% of variance, we needed at least 10 components. So it didn't help much.
 
 ![image](https://user-images.githubusercontent.com/80243823/128116901-6f0d2d4b-3684-4683-898a-0eb4278ba369.png)
+
+We then changed our approach. Since 12 adjectives were necessary, we picked the most important 4 for user to choose, then set a default value to the remaining 8, but letting dedicated users to amend the 8.
+As we didn't have the clustering label for all the whiskies, we took a two-step approach. First we used kMeans to provide the label, then we used Logistic Regression to find out the feature importance of all 12 adjectives.
+
+![image](https://user-images.githubusercontent.com/80243823/128117030-b2bbea0e-df8b-4e4f-968d-64ccd1930497.png)
+
+List on the right below shows the coeffficient of different adjectives; While on the left, it is the correlation matrix of the 12 adjectives.
+There are 3 adjectives which have negative coefficient, and they are correlated, so we picked the strongest one, "Smoky", as the representative of the negative side.
+For positive side, "Winey" and "Honey" are the 2 most powerful adjectives, so they are also included.
+For the 4th adjective, "Body" should be the logical choice. However, "Body" is highly correlated to "Smoky" and "Winey", so it is not a good independent variable.
+Next 2 candidates, "Nutty" and "Fruity", are good independent variables. Since "Fruity" is more relatable than "Nutty", so we picked it as our 4th adjective.
+
+![image](https://user-images.githubusercontent.com/80243823/128117080-6da9b815-46e6-42aa-8644-8b7eb4224f7d.png)
+
+As we completed the flavour profile analysis, we then had to choose a recommendation method. Whisky 1 and 3 below are smoky whiskies, while Whisky 2 is a fruity one.
+For food and beverages, presence of a flavour is much more important than the intensity of it. If we used Euclidean Distance as the method, Whisky 2 and 3 are more similar. That is not the case.
+Thus, we used Cosine Distance as our recommendation metric to match users' expectation.
+
+![image](https://user-images.githubusercontent.com/80243823/128117328-cea91572-5ba4-4c65-9909-a49cc745dce8.png)
+
