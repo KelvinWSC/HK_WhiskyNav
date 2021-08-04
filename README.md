@@ -170,3 +170,8 @@ Thus, we used Cosine Distance as our recommendation metric to match users' expec
 
 ![image](https://user-images.githubusercontent.com/80243823/128117328-cea91572-5ba4-4c65-9909-a49cc745dce8.png)
 
+To provide a flavour description of the whisky to the user, we web-scrapped thousands of customer reviews of each whisky online. Then we applied tf-idf to generate a Word Cloud, with all stop words filtered.
+The user can imagine the flavour of the whisky simply by looking at the Word Cloud
+
+![image](https://user-images.githubusercontent.com/80243823/128118600-cd51a561-7e11-4a2a-9b93-20468d4ee4b5.png)
+
