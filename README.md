@@ -175,3 +175,6 @@ The user can imagine the flavour of the whisky simply by looking at the Word Clo
 
 ![image](https://user-images.githubusercontent.com/80243823/128118600-cd51a561-7e11-4a2a-9b93-20468d4ee4b5.png)
 
+Below is the app structure for deployment
+![image](https://user-images.githubusercontent.com/80243823/128118662-8bb091cb-c70c-4e53-adc7-5b1648d83e0e.png)
+
