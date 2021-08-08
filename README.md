@@ -160,7 +160,7 @@ List on the right below shows the coeffficient of different adjectives; While on
 There are 3 adjectives which have negative coefficient, and they are correlated, so we picked the strongest one, "Smoky", as the representative of the negative side.
 For positive side, "Winey" and "Honey" are the 2 most powerful adjectives, so they are also included.
 For the 4th adjective, "Body" should be the logical choice. However, "Body" is highly correlated to "Smoky" and "Winey", so it is not a good independent variable.
-Next 2 candidates, "Nutty" and "Fruity", are good independent variables. Since "Fruity" is more relatable than "Nutty", so we picked it as our 4th adjective.
+Next 2 candidates, "Nutty" and "Fruity", are good independent variables. Since "Fruity" is more relatable than "Nutty", we picked it as our 4th adjective.
 
 ![image](https://user-images.githubusercontent.com/80243823/128117080-6da9b815-46e6-42aa-8644-8b7eb4224f7d.png)
 
