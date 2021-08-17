@@ -87,6 +87,9 @@ There are good news and bad news. The good news is, there are good image recogni
 
 ![image](https://user-images.githubusercontent.com/80243823/127946243-bdd87420-f868-470f-89c8-8ac8111b4a87.png)
 
+![image](https://user-images.githubusercontent.com/80243823/129705825-57091be0-8db8-4e89-a50a-82b51238c458.png)
+
+
 We froze the feature extraction part, making it untrainable, and cut the classification part of InceptionV3, replacing it with our own neural network for the classification. Over 10 versions of the network were tested before we deployed the final one.
 
 ![image](https://user-images.githubusercontent.com/80243823/127949368-b57f12c2-5753-458d-a1f0-8db03e7800d3.png)
